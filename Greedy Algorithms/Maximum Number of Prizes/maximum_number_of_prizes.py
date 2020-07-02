@@ -1,0 +1,2 @@
+def summands(n):
+    prizes = []
